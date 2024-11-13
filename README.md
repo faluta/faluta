@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @faluta, a data analyst and an aspiring data scientist yearning to be industry expert one step at a time.  
-- 👀 I’m interested in Data analysis, data science, python, sql and anything fun related to coding.
+- 👋 Hi, I’m @faluta, a data analyst / Machine Learning Engineer yearning to be industry expert one step at a time.  
+- 👀 I’m interested in Data analysis, data science, python, sql and anything related to empowering machines with human like abilities.
 - 🌱 An Alumni of Udacity X Alx, Data analyst Nanodegree.
-- 💞️ I’m looking to collaborate on projects (x3)!!!, data volunteering jobs.
+- 💞️ I’m always looking to collaborate on projects (x3)!!!, data volunteering jobs.
 - 📫 How to reach me mail: coolbyteq@gmail.com, LinkedIn: www.linkedin.com/in/opeyemi-faluta , twitter: ccoolbyte
 - Feel free to connect and contact me. 
 
